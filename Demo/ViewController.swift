@@ -8,6 +8,7 @@
 
 import UIKit
 import CoreImage
+import AFImageHelper
 
 struct CellItem {
     let text: String
